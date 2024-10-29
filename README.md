@@ -1,4 +1,4 @@
-# Apache Spark Data Statistics Tutorial: Optimizing Data Statistics in Spark Jobs
+# Spark Data Stats Tutorial
 
 This repository contains the code and examples for my article on Medium, which explains how to optimize computing data statistics in Apache Spark jobs using the Observations feature. You can read the full article here:  
 [**Optimize Computing Data Statistics in Spark Jobs with Observations**](https://medium.com/@suffyan.asad1/optimize-computing-data-statistics-in-spark-jobs-with-observations-5f4d25fdd2e)
